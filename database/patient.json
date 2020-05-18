@@ -1,0 +1,5 @@
+[{ "_id" : "5ec1f16fb5405c003268e100", "name" : "amal", "age" : "52", "status" : true, "phone" : "11111", "sex" : "male", "password" : "12345" },
+{ "_id" : "5ec1f16fb5405c003268e101", "name" : "david", "age" : "40", "status" : true, "phone" : "12345", "sex" : "male", "password" : "12345" },
+{ "_id" : "5ec1f16fb5405c003268e102", "name" : "sarath", "age" : "35", "status" : true, "phone" : "22222", "sex" : "male", "password" : "12345" },
+{ "_id" : "5ec1f16fb5405c003268e103", "name" : "hemanth", "status" : true, "phone" : "33333", "sex" : "male", "password" : "12345", "age" : "30" },
+{ "_id" : "5ec1f16fb5405c003268e104", "name" : "manju", "status" : true, "phone" : "99999", "male" : "female", "password" : "12345", "age" : "40" }]

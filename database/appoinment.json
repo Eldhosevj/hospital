@@ -1,0 +1,1 @@
+{ "_id" : "5ec207e810fb3e3bdc31a817", "pacientId" : "5ec1f16fb5405c003268e100", "doctorId" : "5ec1f5f5b5405c003268e106", "dateOfappoinments" : "12-10-2020", "fromTime" : "11 am", "toTime" : "12 pm", "disease" : "fever", "status" : "true" }

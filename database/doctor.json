@@ -1,0 +1,5 @@
+
+[{ "_id" : "5ec1f5f5b5405c003268e106", "name" : "chanthini", "expertise" : "Cardiologists", "phone" : "55555", "password" : "55555", "sta{{tus" : true },
+{ "_id" : "5ec1f5f5b5405c003268e107", "name" : "santhosh", "expertise" : "Cardiologists", "phone" : "11111", "password" : "00000", "status" : true },
+{ "_id" : "5ec1f5f5b5405c003268e108", "name" : "sharon", "expertise" : "Cardiologists", "phone" : "22222", "password" : "22222", "status" : true }]
+
